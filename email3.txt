@@ -1,0 +1,9 @@
+Subject: New Voice Message Notification
+
+Service: Voicemail System
+
+Internal Notification: Voicemail Received
+
+You have received a new voice message.
+
+Click here to listen: http://attacker.example.com

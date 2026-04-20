@@ -1,0 +1,8 @@
+Subject: New Fax Message
+
+Service: SharePoint
+
+You have received a new fax message.
+Click the link below to view the document.
+
+Print & Preview Here: https://attacker.example.com/
